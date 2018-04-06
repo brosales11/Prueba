@@ -1,0 +1,3 @@
+<p class="alert alert-info">
+    Desde aqui puedes eliminar, editar...
+</p>
